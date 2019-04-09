@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BelajarLIstView</string>
+    <string name="app_name">BelajarLIstView1</string>
         <string-array name="array_technology">
             <item>Android</item>
             <item>Java</item>
